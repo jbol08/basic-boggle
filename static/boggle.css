@@ -1,0 +1,22 @@
+table {
+    border-style:solid;
+    border-radius:10px;
+    font-size:30px;
+    text-align:center;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    
+
+}
+
+div {
+    text-align:center;
+    font-size:30px;
+}
+
+td{
+    height:70px;
+}
+
